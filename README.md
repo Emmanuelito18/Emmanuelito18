@@ -6,13 +6,13 @@
 </div>
 
 <div id="badges">
-<a href=""><img alt="Twitch Status" src="https://img.shields.io/twitch/status/emmanuelito18?style=for-the-badge&logo=twitch">
+<a href="https://twitch.tv/emmanuelito18"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/emmanuelito18?style=for-the-badge&logo=twitch">
+</a><a href="https://twitter.com/Emmanuelito181"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Emmanuelito181?style=for-the-badge&logo=X">
 </a>
-
-<a href="https://twitter.com/Emmanuelito181"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Emmanuelito181?style=for-the-badge&logo=X">
-</a>
-
 </div>
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 <a href="https://www.youtube.com/@Emmanuelito182"><img src="/Portada.jpg"></a>
   <h2><a href="https://ww.youtube.com/@Emmanuelito18_Code">I'm Emmanuelito18</a></h2>
   <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">- C</a></h3>
