@@ -21,7 +21,7 @@
 </div>
 
 <div id="languages and tools">
-  <h1 aling=center">Languages and tools</h1>
+  <h1 aling=center">Languages and tools🛠🛠</h1>
   <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50"></img>
   </a>
