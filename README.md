@@ -6,33 +6,55 @@
 </div>
 
 <div id="badges">
-<a href="https://twitch.tv/emmanuelito18"><img alt="Twitch Status" src="https://img.shields.io/twitch/status/emmanuelito18?style=for-the-badge&logo=twitch">
-</a><a href="https://twitter.com/Emmanuelito181"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Emmanuelito181?style=for-the-badge&logo=X">
-</a>
+  <a href="https://twitch.tv/emmanuelito18">
+    <img alt="Twitch Status" src="https://img.shields.io/twitch/status/emmanuelito18?style=for-the-badge&logo=twitch">
+  </a>
+  <a href="https://twitter.com/Emmanuelito181">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Emmanuelito181?style=for-the-badge&logo=X">
+  </a>
+  <a href="https://www.youtube.com/@Emmanuelito18_Code">
+    <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCDZAjygwY93eLyxAszZGvXw?style=for-the-badge&logo=youtube&label=Emmanuelito18%20Subscribers">
+  </a>
+  <a href="https://www.reddit.com/user/Emmanuelito18/">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/Emmanuelito18?style=for-the-badge&logo=Reddit">
+  </a>
 </div>
-<div id="languages and tools">
-<h1 aling=center">Languafes and tools</h1>
 
+<div id="languages and tools">
+  <h1 aling=center">Languages and tools</h1>
+  <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></img>
+  </a>
+  </a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c%2B%2B&sort=">
+
+  </a>
+  <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=java&sort=">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></img>
+  </a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></img>
+  <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=html&sort=">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></img>
+  </a>
 </div>
+
 <div id="stats">
-<h1 aling="center">My stats</h1>
+  <h1 aling="center">Github analytics</h1>
   <img height=200 align="center" src="(http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true"/>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuelito18&theme=dark&show_icons=true"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark"/>
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuelito18&theme=dark&show_icons=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark"/>
+  </a>
 </div>
 
 <div id="actual">
- <a href="https://www.youtube.com/@Emmanuelito182"><img src="/Portada.jpg"></a>
+  <a href="https://www.youtube.com/@Emmanuelito182"><img src="/Portada.jpg"></a>
   <h2><a href="https://ww.youtube.com/@Emmanuelito18_Code">I'm Emmanuelito18</a></h2>
   <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">- C</a></h3>
   <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c%2B%2B&sort=">- C++</a></h3>
   <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=java&sort=">- Java</a></h3>
   <h3> - MySQL</h3>
   <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=html&sort=">- HTML</a></h3>
-
 <br>
 </div>
