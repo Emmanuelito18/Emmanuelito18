@@ -40,22 +40,11 @@
 
 <div id="stats">
   <h1 aling="center">Github analytics</h1>
-  <img height=200 align="center" src="(http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true"/>
+  <img height=200 align="center" src="http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true"/>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Emmanuelito18&theme=dark&show_icons=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark"/>
   </a>
-</div>
-
-<div id="actual">
-  <a href="https://www.youtube.com/@Emmanuelito182"><img src="/Portada.jpg"></a>
-  <h2><a href="https://ww.youtube.com/@Emmanuelito18_Code">I'm Emmanuelito18</a></h2>
-  <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">- C</a></h3>
-  <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c%2B%2B&sort=">- C++</a></h3>
-  <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=java&sort=">- Java</a></h3>
-  <h3> - MySQL</h3>
-  <h3> <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=html&sort=">- HTML</a></h3>
-<br>
 </div>
