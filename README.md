@@ -35,7 +35,7 @@
   <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=html&sort=">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></img>
   </a>
-  <img src="/glassfish.png" width="50" height="50">
+  <img src="/glassfish.png" width="90" height="50">
 </div>
 
 <div id="stats">
