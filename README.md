@@ -23,18 +23,19 @@
 <div id="languages and tools">
   <h1 aling=center">Languages and tools</h1>
   <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50"></img>
   </a>
-  </a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c%2B%2B&sort=">
-
+  <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c%2B%2B&sort=">
+    <img src="https://github.com/railwayapp/devicons/blob/main/static/i/cplusplus.png" width="50" height="50"></img>
   </a>
   <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=java&sort=">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"></img>
   </a>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></img>
   <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=html&sort=">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"></img>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></img>
   </a>
+  <img src="/glassfish.png" width="50" height="50">
 </div>
 
 <div id="stats">
