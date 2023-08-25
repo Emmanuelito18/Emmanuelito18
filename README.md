@@ -25,19 +25,19 @@
 <div id="languages and tools" align="center">
     <h1 aling=center">Languages and tools🛠🛠</h1>
     <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50"></img>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="50" height="50"></img>
     </a>
     <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c%2B%2B&sort=">
-      <img src="https://github.com/railwayapp/devicons/blob/main/static/i/cplusplus.png" width="50" height="50"></img>
+      <img src="https://github.com/railwayapp/devicons/blob/main/static/i/cplusplus.png" title="C++" alt="C++" width="50" height="50"></img>
     </a>
     <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=java&sort=">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="50" height="50"></img>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" height="50"></img>
     </a>
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"></img>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="50" height="50"></img>
     <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=html&sort=">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></img>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="50" height="50"></img>
     </a>
-    <img src="/glassfish.png" width="90" height="50">
+    <img src="/glassfish.png" title="GlassFish" alt="GlassFish" width="90" height="50">
 </div>
 
 <div id="stats" align="center">
