@@ -44,9 +44,9 @@
     <h1>Github analytics🥇🥇🥇</h1>
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true"/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api?username=Emmanuelito18&theme=dark&show_icons=true"/>
+      <img height=200 src="https://github-readme-stats.vercel.app/api?username=Emmanuelito18&theme=dark&show_icons=true&hide_border=true"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark"/>
+      <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark&hide_border=true"/>
     </a>
 </div>
