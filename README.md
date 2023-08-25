@@ -1,13 +1,11 @@
-<div id="header">
-  <center>
+<div id="header" align="center">
     <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="480" height="297"/>
-    <h1><a href="https://ww.youtube.com/@Emmanuelito18_Code">Hi 👋,I'm Emmanuelito18</a></h1>
-    <h3>I’m a Mexican YouTuber and computer science apprentice, a speedster fanatic of Flash (The Flash series). Passionate about programming and video games (not necessarily in that order), at the moment I specialize in Java, both web, mobile and desktop, but I also know how to program in C/C++, I plan to learn to program in C# and Rust. You can find me on my social networks: Twitter as @Emmanuelito181. Facebook, Twitch, Reddit, Steam and Instagram as @Emmanuelito18. YouTube on my main gaming channel as @Emmanuelito182, on my channel where I teach programming as @Emmanuelito18_Code and my sketch channel as @Emmanuelito18_Run. Tiktok as @Emmanuelito188</h3>
-    <h1>In short, I’m a computer scientist and YouTuber who creates diverse content on my different channels. Passionate about the world of programming. I know how to program in C/C++ and Java and plan to learn Rust and C# in the not too distant future.</h1>
-  </center>
+    <h1 align="center"><a href="https://ww.youtube.com/@Emmanuelito18_Code">Hi 👋,I'm Emmanuelito18</a></h1>
+    <h3 align="center">I’m a Mexican YouTuber and computer science apprentice, a speedster fanatic of Flash (The Flash series). Passionate about programming and video games (not necessarily in that order), at the moment I specialize in Java, both web, mobile and desktop, but I also know how to program in C/C++, I plan to learn to program in C# and Rust. You can find me on my social networks: Twitter as @Emmanuelito181. Facebook, Twitch, Reddit, Steam and Instagram as @Emmanuelito18. YouTube on my main gaming channel as @Emmanuelito182, on my channel where I teach programming as @Emmanuelito18_Code and my sketch channel as @Emmanuelito18_Run. Tiktok as @Emmanuelito188</h3>
+    <h1 align="center">In short, I’m a computer scientist and YouTuber who creates diverse content on my different channels. Passionate about the world of programming. I know how to program in C/C++ and Java and plan to learn Rust and C# in the not too distant future.</h1>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <center>
     <a href="https://twitch.tv/emmanuelito18">
       <img alt="Twitch Status" src="https://img.shields.io/twitch/status/emmanuelito18?style=for-the-badge&logo=twitch">
@@ -24,8 +22,7 @@
   </center>
 </div>
 
-<div id="languages and tools">
-  <center>
+<div id="languages and tools" align="center">
     <h1 aling=center">Languages and tools🛠🛠</h1>
     <a href="https://github.com/Emmanuelito18?tab=repositories&q=&type=&language=c&sort=">
       <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" width="50" height="50"></img>
@@ -41,11 +38,9 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="50" height="50"></img>
     </a>
     <img src="/glassfish.png" width="90" height="50">
-  </center>
 </div>
 
-<div id="stats">
-  <center>
+<div id="stats" align="center">
     <h1>Github analytics🥇🥇🥇</h1>
     <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true"/>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -54,5 +49,4 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark"/>
     </a>
-  </center>
 </div>
