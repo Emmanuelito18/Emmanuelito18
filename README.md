@@ -1,6 +1,7 @@
+<p><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Emmanuelito18.Emmanuelito18" alt="visitor badge"/></p>
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="480" height="297"/>
-    <h1 align="center"><a href="https://ww.youtube.com/@Emmanuelito18_Code">Hi 👋,I'm Emmanuelito18</a></h1>
+    <h1 align="center"><a href="https://ww.youtube.com/@Emmanuelito18_Code"><img src="https://readme-typing-svg.demolab.com?font=Grape+Nuts&weight=900&size=46&duration=2000&pause=1000&color=F7890C&center=true&vCenter=true&random=false&width=435&lines=Hello+everyone!%F0%9F%91%8B;I'm+Emmanuelito18" alt="Typing SVG" /></a></h1>
     <h3 align="center">I’m a Mexican YouTuber and computer science apprentice, a speedster fanatic of Flash (The Flash series). Passionate about programming and video games (not necessarily in that order), at the moment I specialize in Java, both web, mobile and desktop, but I also know how to program in C/C++, I plan to learn to program in C# and Rust. You can find me on my social networks: Twitter as @Emmanuelito181. Facebook, Twitch, Reddit, Steam and Instagram as @Emmanuelito18. YouTube on my main gaming channel as @Emmanuelito182, on my channel where I teach programming as @Emmanuelito18_Code and my sketch channel as @Emmanuelito18_Run. Tiktok as @Emmanuelito188</h3>
     <h1 align="center">In short, I’m a computer scientist and YouTuber who creates diverse content on my different channels. Passionate about the world of programming. I know how to program in C/C++ and Java and plan to learn Rust and C# in the not too distant future.</h1>
 </div>
