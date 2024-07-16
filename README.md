@@ -48,6 +48,7 @@
     <a href="https://stackoverflow.com/users/23140719/emmanuelito18">
         <img src="https://skillicons.dev/icons?i=stackoverflow" title="Stack verflow" alt="Stack Overflow"></img>
     </a>
+    <img src="https://skillicons.dev/icons?i=visualstudio" title="Visual Studio" alt="Visual Studio"></img>
     <img src="https://skillicons.dev/icons?i=vscode" title="VsCode" alt="VsCode"></img>
     <img src="https://skillicons.dev/icons?i=aws" title="AWS" alt="Amazon Web Services"></img>
     </p>
