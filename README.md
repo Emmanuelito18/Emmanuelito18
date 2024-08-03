@@ -63,4 +63,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuelito18&layout=compact&theme=dark&hide_border=true" title="Most used languages" alt="Most used languages"/>
     </a>
+    <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Emmanuelito18&bg_color=0d1117&color=0080ff&line=5bcdec&point=ff8000&area=true&hide_border=true" title="Emmanuelito18's contributions graph" alt="Emmanuelito18's contributions graph"></img>
+    </a>
 </div>
