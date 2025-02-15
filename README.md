@@ -1,3 +1,10 @@
+<!--github status https://github.com/anuraghazra/github-readme-stats-->
+<!--readme typing https://github.com/DenverCoder1/readme-typing-svg-->
+<!--medallas para github modernas https://github.com/alexandresanlim/Badges4-README.md-Profile-->
+<!--skill sincons modernos https://github.com/tandpfun/skill-icons ->
+<!--grafica de actividad de github https://github.com/Ashutosh00710/github-readme-activity-graph-->
+<!--medallas para gihub https://shields.io/-->
+
 <p><a href="https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2FEmmanuelito18"><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Emmanuelito18.Emmanuelito18" title="Visitors" alt="Visitor badge"/></a></p>
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/XO8RMtRaK73isIt0i2/giphy.gif" width="480" height="297"/>
