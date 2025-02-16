@@ -17,7 +17,7 @@
 
 # [![texto]](https://ww.youtube.com/@Emmanuelito18_Code)
 
-### I’m a Mexican YouTuber and computer science apprentice, a speedster fanatic of Flash (The Flash series). Passionate about programming and video games (not necessarily in that order), at the moment I specialize in Java, both web, mobile and desktop, but I also know how to program in C/C++, I plan to learn to program in C# and Rust. You can find me on my social networks: Twitter as @Emmanuelito181. Facebook, Twitch, Reddit, Steam and Instagram as @Emmanuelito18. YouTube on my main gaming channel as @Emmanuelito182, on my channel where I teach programming as @Emmanuelito18\_Code and my sketch channel as @Emmanuelito18\_Run. Tiktok as @Emmanuelito188
+### I’m a Mexican YouTuber and computer science apprentice, a speedster fanatic of Flash (The Flash series). Passionate about programming and video games (not necessarily in that order), at the moment I specialize in Java, both web, mobile and desktop, but I also know how to program in C/C++, I plan to learn to program in Flutter, Rust and C#. You can find me on my social networks: Twitter as @Emmanuelito181. Facebook, Twitch, Reddit, Steam and Instagram as @Emmanuelito18. YouTube on my main gaming channel as @Emmanuelito182, on my channel where I teach programming as @Emmanuelito18\_Code and my sketch channel as @Emmanuelito18\_Run. Tiktok as @Emmanuelito188
 
 # In short, I’m a computer scientist and YouTuber who creates diverse content on my different channels. Passionate about the world of programming. I know how to program in C/C++ and Java and plan to learn Flutter, Rust and C# in the not too distant future
 
