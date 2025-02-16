@@ -30,8 +30,11 @@
 # Github analytics🥇🥈🥉
 
 [![racha]](http://github-readme-streak-stats.herokuapp.com?user=Emmanuelito18&theme=dark&hide_border=true)
+
 [![stadisticas]](https://github.com/anuraghazra/github-readme-stats)
+
 [![lenguajesUsados]](https://github.com/anuraghazra/github-readme-stats)
+
 [![grafica]](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
